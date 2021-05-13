@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+body {
+  background-color: #cd7e79;
+  font-family: 'Rock Salt';
+  background-image: url("https://images.unsplash.com/photo-1528607929212-2636ec44253e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80");
+  background-size: cover;
+
+}
+
+h1 {
+  color: #b41f1f;
+  font-size: 200px;
+  text-align: center;
+}
+
+p {
+  color: #eebf77;
+}
